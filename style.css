@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5e6c8;
+    text-align: center;
+    margin: 0;
+    padding: 40px;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #8b4513;
+    font-size: 40px;
+}
+
+h2 {
+    color: #d2691e;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.teacher-img {
+    width: 300px;
+    max-width: 100%;
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+audio {
+    width: 100%;
+    margin: 15px 0;
+}
+
+.message {
+    font-weight: bold;
+    color: #8b4513;
+}
